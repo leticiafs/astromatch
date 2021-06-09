@@ -5,7 +5,7 @@
 > Status do Projeto: Concluido :heavy_check_mark:
 
 ## Descrição do Projeto
-<p align="center">O Labefy é uma versão simplificada do spotify, onde o usuário pode criar playlists, adicionar e ouvir músicas. O objetivo desse projeto foi realizar a integração com a API Labefy, que permite o gerenciamento básico de playlists musicais.</p>
+<p align="center">O astromatch é uma versão simplificada de um app de relacionamentos, onde o usuário pode dar match com outros usuários. O objetivo desse projeto foi realizar a integração com a API, que permite a interação com os usuários previamente cadastrados.</p>
 
 
 ### Web
@@ -15,11 +15,8 @@
 
 ### Features
 
-- [x] Criar ou excluir playlists
-- [x] Adicionar ou excluir músicas na playlist
-- [x] Visualizar todas playlists existentes
-- [x] Ver detalhes de cada música
-- [x] Ouvir músicas
+- [x] Botões de dar ou não match com outros usuários
+- [x] Lista de matches
 
 ### 🛠 Tecnologias
 
